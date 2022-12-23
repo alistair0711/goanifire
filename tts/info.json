@@ -28,6 +28,13 @@
 		"cy": "Welsh"
 	},
 	"voices": {
+	"cellos": {
+	     "country": "US",
+	     "language": "en",
+	     "gender": "M",
+	     "source": "apple",
+	     "arg": "Cellos",
+	     "desc": "Cellos"
         "adam": {
             "country": "US",
             "language": "en",
